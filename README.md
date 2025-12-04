@@ -9,4 +9,4 @@
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-> AI-Powered Local Food Ordering Platform with RAG, Fine-Tuned LLM & Smart Recommendations
+> Local Food Ordering Platform with RAG, Fine-Tuned LLM & Smart Recommendations
